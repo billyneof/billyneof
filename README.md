@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vasilis Neofytou</h1>
+<h1 align="center">Hi 👋, I'm Vasilis (Billy) Neofytou</h1>
 <h3 align="center">A beginner Software Engineer</h3>
 
 - 🌱 I’m currently learning **Java, Pyhton, C++**
